@@ -1,0 +1,15 @@
+{
+  "name": "create-ses-template-handler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-ses": "^3.82.0",
+    "axios": "^0.27.2"
+  }
+}
